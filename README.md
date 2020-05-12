@@ -5,6 +5,11 @@ Simplifying React Redux Augmented Reality Programming (Jitsi Meet) using Forth d
 Functionalities of code become more complex. Can code be made simpler at the same time? 
 
 
+- _If the 2010 decade is defined by iPhone and Android mobile devices, then_ ___2020s should be the era of Virtual Reality &mdash; 3D VR AR___, _with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful___ _like Forth and yet_ ___easy to learn___ _like the Turtle graphics Logo programming language._
+
+Jitsi Meet  is the perfect project for this, state of the art React Redux framework, video conferencing, mature open source multiple core technologies. Just need simplification.
+
+
 ## Why Phoshell?
 
 As decribed in the following GitHub issue:
