@@ -1,5 +1,9 @@
 # Jitsi Phoshell
 
+Simplifying React Redux Augmented Reality Programming (Jitsi Meet) using Forth derived Stack Machine Shell
+
+Functionalities of code become more complex. Can code be made simpler at the same time? 
+
 
 ## Why Phoshell?
 
